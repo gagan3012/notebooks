@@ -1,5 +1,5 @@
 # Notebooks
 
-This is my notebooks brain dump
+This is my brain dump
 
 I have this to store all the extra notebooks that I have worked on
